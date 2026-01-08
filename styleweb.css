@@ -1,0 +1,95 @@
+.navbar{
+color:white;
+    display:flex;
+    flex-direction:column;
+    color:white;
+    background-color:chocolate;
+    
+
+}
+
+
+img{
+
+width:300px;
+display:flex;
+justify-content:center;
+align-items:center;
+
+
+
+}
+
+#Aboutme{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-color:yellowgreen;
+
+
+}
+.message{
+
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+    justify-content:space-between;
+    align-items:baseline;
+
+}
+#Sports{
+    background-color:blue;
+    display:flex;
+    text-align:center;
+align-items:center;
+
+}
+
+.NameEshwar{
+text-align:center;
+
+}
+
+body{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color:white;
+background-color:orange;
+
+}
+.sportstext{
+text-align:center;
+
+}    
+#hobbies{
+    background-color:purple;
+    display:flex;
+    text-align:center;
+align-items:center;
+
+}
+.hobbiestext{
+text-align:center;
+
+}   
+
+#food{
+    background-color:aqua;
+    display:flex;
+    text-align:center;
+align-items:center;
+
+}
+.foodtext{
+text-align:center;
+
+}    
+
+
+
+.navbar h3:hover{
+    text-decoration:none;
+    border-top: 1px solid #B1D7FE;
+    border-bottom: 1px solid #B1D7FE;
+    opacity:0.5;
+}
